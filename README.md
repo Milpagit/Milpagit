@@ -30,11 +30,7 @@ I am a passionate Software Developer focused on building efficient, intelligent 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milpagit&show_icons=true&theme=radical&count_private=true" alt="Milpagit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milpagit&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Milpagit&theme=radical" alt="GitHub Streak" />
 
 ---
 
